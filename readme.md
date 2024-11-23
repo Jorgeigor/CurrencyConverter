@@ -21,7 +21,7 @@ Clone o repositório:
 
 bash
 Copiar código
-git clone https://github.com/seu-usuario/CurrencyConverter.git
+git clone https://github.com/Jorgeigor/CurrencyConverter.git
 Abra o arquivo index.html no navegador.
 
 Insira o valor desejado no campo correspondente.
