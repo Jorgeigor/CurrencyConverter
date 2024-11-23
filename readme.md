@@ -38,7 +38,7 @@ Exibir histórico de conversões.
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar um pull request.
 
 👨‍💻 Autor
-Criado por Jorge Igor Barros Gomes.
+Criado por Jorge Igor Barros Gomes.\n
 💻 Apaixonado por tecnologia, programação e desenvolvimento web.
 
 Se precisar de mais ajustes, é só pedir! 😊
