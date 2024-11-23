@@ -37,7 +37,8 @@ Exibir histórico de conversões.
 🧑‍💻 Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar um pull request.
 
-📝 Licença
-Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
+👨‍💻 Autor
+Criado por Jorge Igor Barros Gomes.
+💻 Apaixonado por tecnologia, programação e desenvolvimento web.
 
 Se precisar de mais ajustes, é só pedir! 😊
