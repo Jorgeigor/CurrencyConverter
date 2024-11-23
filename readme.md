@@ -1,4 +1,6 @@
-CurrencyConverter
+#Currency Converter
+
+Currency Converter
 Uma aplicação simples para conversão de moedas desenvolvida com HTML, CSS e JavaScript. O objetivo deste projeto é permitir que os usuários insiram um valor e selecionem uma moeda para convertê-lo em reais.
 
 🌟 Funcionalidades
