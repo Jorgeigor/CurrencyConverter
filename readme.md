@@ -30,20 +30,6 @@ Escolha a moeda de origem no menu suspenso.
 
 Clique no botão "Converter em reais" para visualizar o resultado.
 
-📂 Estrutura do Projeto
-plaintext
-Copiar código
-CurrencyConverter/
-├── img/                  
-│   ├── check.svg         
-│   ├── chevron-down.svg  # Imagens do projeto
-│   └── logo.svg          
-├── js/                   # Scripts em JavaScript
-│   └── script.js         # Lógica de conversão
-├── index.html            # Estrutura da aplicação
-├── style.css             # Estilos do conversor
-└── README.md             # Documentação do projeto
-
 📋 Melhorias Futuras
 Adicionar mais moedas para conversão.
 Implementar suporte a diferentes idiomas.
